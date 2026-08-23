@@ -7,9 +7,6 @@ format:
     theme: slides.scss
     transition: fade
     slide-number: true
-    chalkboard: true
-    code-block-bg: true
-    code-block-border-left: "#d42121"
 editor: visual
 execute:
   freeze: auto
