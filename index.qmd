@@ -1,5 +1,7 @@
 ---
-title: "Data Science @ Davidson"
+title: "Info Session"
+date: "September 17, 2026"
+date-format: "long"
 format: revealjs
 ---
 
