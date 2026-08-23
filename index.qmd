@@ -3,6 +3,11 @@ title: "Info Session"
 date: "September 17, 2026"
 date-format: "long"
 format: revealjs
+title-slide-attributes:
+  data-background-image: "images/infosession_QRcode.png"
+  data-background-size: "25%, contain"
+  data-background-opacity: "1.0"
+  data-background-position: "75%"
 ---
 
 # The Data Science Department
