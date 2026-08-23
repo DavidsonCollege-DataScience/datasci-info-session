@@ -18,7 +18,7 @@ format: revealjs
 :::
 
 ::: {.column width="75%"}
-Dr. Andrew O'Geen
+**[Dr. Andrew O'Geen]{style="color:#d42121;"}**
 
 Chair (interim)
 :::
@@ -32,7 +32,7 @@ Chair (interim)
 :::
 
 ::: {.column width="75%"}
-Dr. Laurie Heyer
+**[Dr. Laurie Heyer]{style="color:#d42121;"}**
 
 Chair (on sabbatical until Fall 2027)
 :::
@@ -52,7 +52,7 @@ Chair (on sabbatical until Fall 2027)
 :::
 
 ::: {.column width="75%"}
-Dr. Kevin Wang
+**[Dr. Kevin Wang]{style="color:#d42121;"}**
 
 Assistant Professor
 :::
@@ -66,7 +66,7 @@ Assistant Professor
 :::
 
 ::: {.column width="75%"}
-Prof. Pete Benbow '07
+**[Prof. Pete Benbow '07]{style="color:#d42121;"}**
 
 Assistant Professor of the Practice
 :::
@@ -86,7 +86,7 @@ Assistant Professor of the Practice
 :::
 
 ::: {.column width="75%"}
-Amber MacIntyre
+**[Amber MacIntyre]{style="color:#d42121;"}**
 
 Departmental Coordinator
 :::
@@ -101,7 +101,7 @@ Departmental Coordinator
 
 ## What is Data Science?
 
-A highly interdisciplinary field that blends **mathematics** with **computer science** to extract useful knowledge from data.
+A highly interdisciplinary field that blends **[mathematics]{style="color:#d42121;"}** with **[computer science]{style="color:#d42121;"}** to extract useful knowledge from data.
 
 Can be used in a variety of fields, including natural sciences, social sciences, and the humanities.
 
@@ -257,7 +257,7 @@ Local companies sponsor DataFest and provide mentorship and networking opportuni
 
 ## Yes, you can major in Data Science!
 
-- Data Science is currently a **student-designed major** via the Center for Interdisciplinary Studies (CIS)
+- Data Science is currently a **[student-designed major]{style="color:#d42121;"}** via the Center for Interdisciplinary Studies (CIS)
 - Meet with the CIS Director, Dr. Britta Crandall, during first-year spring or sophomore fall semester
 - Work with one of our faculty to build a roadmap of the courses you want to take[^1]
 - Apply, and hope you get accepted!
