@@ -1,0 +1,16 @@
+institute: "Davidson College"
+author: "Department of Data Science"
+footer: "[🔗 datasci.davidson.edu](https://datasci.davidson.edu)"
+logo: "images/davidson-wordmark-horizontal-lockup-black.png"
+format:
+  revealjs:
+    theme: slides.scss
+    transition: fade
+    slide-number: true
+    chalkboard: true
+    code-block-bg: true
+    code-block-border-left: "#d42121"
+editor: visual
+execute:
+  freeze: auto
+  echo: true
